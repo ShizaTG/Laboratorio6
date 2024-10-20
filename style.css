@@ -1,0 +1,28 @@
+
+nav {
+    background-color: hsl(225, 100%, 82%);
+    padding: 1em;
+}
+nav a {
+    color: rgb(0, 0, 0);
+    margin: 0 15px;
+    text-decoration: none;
+}
+nav a:hover {
+    text-decoration: underline;
+}
+.content {
+    text-align: center;
+    margin-top: 50px;
+}
+.txtgrande {
+    font-size: 2em;
+    margin: 20px 0;
+}
+img {
+    max-width: 20%;
+    height: auto;
+}
+.actual {
+    background-color: hsl(0, 0%, 100%);
+}
